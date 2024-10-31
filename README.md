@@ -1,5 +1,5 @@
 
-# Big Mart Sales Prediction - Analytics Vidhya (Hackathon Competition) [Nov 2024]
+# Big Mart Sales Prediction - Analytics Vidhya (Hackathon Competition) [Oct 2024]
 
 
 
